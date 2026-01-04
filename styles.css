@@ -1,0 +1,24 @@
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: rgb(0, 255, 0);
+    text-align: center;
+
+
+}
+
+img{
+    width: 70%;
+    height: auto;
+    position: relative;
+    left: 70px;
+}
+
+p{
+    color: rgb(0, 255, 0);
+    text-align: center;
+
+}
